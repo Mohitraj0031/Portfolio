@@ -1,4 +1,4 @@
-import image from "../images/ju-guan-D-jLxBtEwaA-unsplash.jpg";
+import image from "../images/portfolio_logo.jpg";
 
 const HeroSection = () => {
   return (
